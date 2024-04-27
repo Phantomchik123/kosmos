@@ -1,0 +1,52 @@
+header h1{
+    text-align: center;
+    background-image: linear-gradient(to right, blue, yellow)  ;
+    color: whitesmoke;
+}
+
+.imgr{
+    border: solid 5px black;
+    height: 10px;
+    width: 25px;
+}
+
+.imgr:hover{
+    box-shadow: 4px 4px 3px 4px purple;
+    height: 150px ;
+    width: 250px;
+    transition:all 5s ease-in-out ;
+}
+
+.imge{
+    height: 200px;
+    width: 250px;
+}
+
+.imge:hover{
+    box-shadow: 4px 4px 3px 4px purple;
+    height: 15px ;
+    width: 250px;
+    transition:all 6s ease-in-out ;
+}
+
+footer img{
+    margin: 300px;
+    width: 250px;
+    border: 3px solid blueviolet;
+    display: flex;
+    justify-content: space-between;
+    justify-content: space-around;
+
+}
+
+main h1{
+    color: aqua;
+}
+main{
+    border: 2px solid royalblue;
+    border-radius: 5px;
+}
+
+
+    
+
